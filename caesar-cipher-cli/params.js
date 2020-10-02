@@ -11,11 +11,6 @@ program
   .option('-a, --action <action>', 'An action encode/decode')
   .parse(process.argv);
 
-function getParams() {
-  return program.opts();
-}
-
-
 module.exports = {
-  getParams,
+  getParams: () => program.opts(),
 }
