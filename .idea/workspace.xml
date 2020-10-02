@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f75736c-5a30-45b3-b89a-c44501e377df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caesar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformer.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iHKbnXaxcxbaqay3MjaOcytBiM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="8.9.4" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/caesar-cipher-cli" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f75736c-5a30-45b3-b89a-c44501e377df" name="Default Changelist" comment="" />
+      <created>1601559151183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601559151183</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="472" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601648093593">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="472" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-2560.0.2560.1440@0.0.1440.900" timestamp="1601648093593" />
+    <state x="181" y="35" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601630137769">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="181" y="35" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/-2560.0.2560.1440@0.0.1440.900" timestamp="1601630137768" />
+    <state x="420" y="205" width="599" height="490" key="find.popup" timestamp="1601649267216">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="420" y="205" width="599" height="490" key="find.popup/0.0.1440.900/-2560.0.2560.1440@0.0.1440.900" timestamp="1601649267216" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1601642118461">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-2560.0.2560.1440@0.0.1440.900" timestamp="1601642118461" />
+  </component>
+</project>
