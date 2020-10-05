@@ -20,7 +20,7 @@ function validateParams(shift, action) {
 
 function getInput(input) {
   if (input) {
-    const readPath = path.join(__dirname, input);
+    const readPath = path.resolve(__dirname, input);
 
     try {
       fs.accessSync(readPath, fs.constants.F_OK | fs.constants.R_OK);
@@ -37,7 +37,7 @@ function getInput(input) {
 
 function getOutput(output) {
   if (output) {
-    const writePath = path.join(__dirname, output);
+    const writePath = path.resolve(__dirname, output);
 
     try {
       fs.accessSync(writePath, fs.constants.F_OK | fs.constants.W_OK);
